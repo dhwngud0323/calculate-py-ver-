@@ -12,7 +12,7 @@ def divide(a, b):
         return "0으로 나눌 수 없습니다."
     return a / b
 
-# 실행 예시
+
 num1 = 10
 num2 = 5
 
